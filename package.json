@@ -1,0 +1,19 @@
+{
+  "name": "notasking",
+  "version": "0.0.1",
+  "description": "Um aplicativo simples onde o usuário pode escrever e salvar notas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardo-as1/NotasKing.git"
+  },
+  "author": "ricardo-as1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ricardo-as1/NotasKing/issues"
+  },
+  "homepage": "https://github.com/ricardo-as1/NotasKing#readme"
+}
